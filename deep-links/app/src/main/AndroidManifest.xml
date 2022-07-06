@@ -28,11 +28,11 @@
                 <category android:name="android.intent.category.BROWSABLE" />
 
                 <data
-                    android:host="customschema"
-                    android:scheme="yld" />
+                    android:scheme="yld"
+                    android:host="openposition" />
                 <data
-                    android:host="yld.io"
-                    android:scheme="http" />
+                    android:scheme="http"
+                    android:host="yld.io" />
             </intent-filter>
 
         </activity>

@@ -2,6 +2,6 @@
 
 ## Deep links
 
-[yld://customscheme?data=some%20data](yld://customscheme?data=some%20data)
+[yld://openposition?positionId=1500](yld://openposition?positionId=1500)
 
 [http://yld.io?id=123&name=Luis](http://yld.io?id=123&name=Luis)
