@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.yld.applinks",
+    "sha256_cert_fingerprints":
+    ["F1:D7:F7:6D:9A:F6:F1:49:18:A3:BF:A3:40:71:03:03:B0:19:C7:C9:C0:5F:EE:86:38:D7:ED:94:39:42:22:0D"]
+  }
+}]
+
