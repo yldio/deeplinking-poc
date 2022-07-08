@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "272917995664",
+    "project_id": "dynamic-links-poc-5319c",
+    "storage_bucket": "dynamic-links-poc-5319c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272917995664:android:80538390e7d72fc57eb815",
+        "android_client_info": {
+          "package_name": "io.yld.dynamiclinks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272917995664-q2d839b6ktocf7fosfa95eo90scbgb57.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.yld.dynamiclinks",
+            "certificate_hash": "c9283d8d63cc35f83e2943657e8854172245dbcc"
+          }
+        },
+        {
+          "client_id": "272917995664-19q4lih0dqe55edmgpqk6pf3lndl15pd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhY2370SnqASyPU74iY9GyT8LIQ8kTbx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272917995664-19q4lih0dqe55edmgpqk6pf3lndl15pd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
