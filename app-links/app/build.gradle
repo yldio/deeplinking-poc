@@ -6,7 +6,7 @@ plugins {
 android {
     signingConfigs {
         debug {
-            storeFile file('/home/messias/Workspace/deeplinking-poc/keystore/debug-keystore.jks')
+            storeFile file('../../keystore/debug-keystore.jks')
             storePassword 'qujc7!TBHjj^Z#gQ!5Rs'
             keyPassword 'qujc7!TBHjj^Z#gQ!5Rs'
             keyAlias 'debug-keystore'
